@@ -76,11 +76,12 @@ div.header h1 {
   }
 }
 div.header h2 {
-  font-size: 1.1em;
-  font-weight: 400;
-  color: #cfd7de;
+  font-size: 0.8em;
+  font-weight: 200;
+  color: "white";
   max-width: 30rem;
   margin: auto;
+  text-transform: uppercase;
 }
 
 div.item {
@@ -112,7 +113,7 @@ div.item {
   position: -webkit-sticky;
   position: sticky;
   top: 5rem;
-  color: #888;
+  color: #f37042;
   margin: 0;
   font-size: 1em;
   font-weight: 400;
@@ -154,11 +155,12 @@ div.item {
   padding: 0 0 0 75px;
   margin: -1.35rem 0 1em;
   max-width: 32rem;
-  font-size: 1em;
+  font-size: 0.9em;
+  font-weight: 400;
 }
 @media (min-width: 62em) {
   #timeline section.year section ul {
-    font-size: 1.1em;
+    font-size: 1em;
     padding: 0 0 0 81px;
   }
 }
@@ -169,7 +171,7 @@ div.item {
   content: "";
   width: 10px;
   height: 10px;
-  background: #C5C5C5;
+  background: #79838c;
   border: 2px solid #FFFFFF;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -193,7 +195,7 @@ div.item {
 }
 #timeline section.year section ul li span.price {
   color: mediumturquoise;
-  font-weight: 500;
+  font-weight: 200;
 }
 
 .usd {
