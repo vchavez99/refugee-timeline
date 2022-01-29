@@ -1,4 +1,7 @@
-# References
+# The Evolution of Refugee Policy
+Welcome! This is a non-exhaustive timeline of the evolution of policy pertaining to refugees and the events that prompted them. To see the deployment of this timeline as a GitHub page go to this link: https://vchavez99.github.io/refugeetimeline/. The page is compatible with both computers and mobile devices. Below, you can find a list of the sources used for the completion of this project.  
+
+## References
 * Fiddian-Qasmiyeh, E., Loescher, G., Long, K. and Sigona, N. eds., 2014. The Oxford handbook of refugee and forced migration studies. OUP Oxford. “Gender and Forced Migration”
 * Harrell-Bond, B. E. (1996) Refugees and the International System: The Evolution of Solutions after the Second World War. Oxford International Review, ‘Special Issue: The Decline of Asylum: Citizenship, Migration and Statelessness in Contemporary Europe,’ 7(3): 2-10.
 * Gatrell, Peter. 2013. Putting Refugees in their Place. New Global Studies 2013; 7(1): 1–24.
